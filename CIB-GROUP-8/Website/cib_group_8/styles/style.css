@@ -1,0 +1,102 @@
+body
+{
+   padding-top: 70px;
+   background-image: url(images/bg.png);
+}
+
+div.well-lg img.santaHead
+{
+	float: right;
+	margin: -15px -18px 0 0;
+	width: 8%;
+}
+
+div.well-lg hr
+{
+	margin-top: 4px;
+    height: 1px;
+    background: #C3C0C0;
+}
+
+div.well-lg h3
+{
+    margin-top: 0px;
+}
+
+form.login .btn
+{
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    outline: 0;
+    cursor: pointer;
+    letter-spacing: 1px;
+}
+
+form.login .forgot-pass-content
+{
+    min-height: 20px;
+    margin-top: 10px;
+}
+
+footer p {
+	font-size: 8pt;
+	text-align: center;
+	color: white;
+}
+
+footer span {
+	color: #e5e5e5;
+}
+
+.checkbox {
+	margin-bottom: 0;
+}
+
+.col-centered {
+    float: none;
+    margin: 0 auto;
+	margin-top: 120px;
+}
+
+.popover.clockpicker-popover{
+    z-index: 1050;
+}
+
+span .approved {
+	color: rgb(0, 255, 0);
+}
+
+span .declined {
+	color: rgb(255, 0, 0);
+}
+
+#cButtons {
+	margin: 0 auto;
+	border: 1px solid red;
+}
+
+
+.awesomee {
+	border: none;
+	padding: 0.6em 1.2em;
+	background: rgb(92, 184, 92);
+	color: #fff;
+	font-family: 'Lato', Calibri, Arial, sans-serif;
+	font-size: 1em;
+	letter-spacing: 1px;
+	text-transform: uppercase;
+	cursor: pointer;
+	display: inline-block;
+	margin: 3px 2px;
+	border-radius: 2px;
+}
+
+.awesomee:hover {
+	background: #449d44;
+}
+
+.sspace {
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
